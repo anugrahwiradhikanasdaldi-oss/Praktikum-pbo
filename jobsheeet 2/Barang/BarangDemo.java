@@ -2,13 +2,13 @@ package Barang;
 public class BarangDemo {
     public static void main(String[] args) {
 
-        Barang barang1 = new Barang();
+        Barang b1 = new Barang();
 
-        barang1.kode = "ATK01";
-        barang1.nama = "Bolpoin Pilot Hitam";
-        barang1.hargaKotor = 3500;
-        barang1.diskon = 0.1;
+        b1.kode = "B001";
+        b1.nama = "Laptop";
+        b1.hargaKotor = 10000000;
+        b1.diskon = 0.1;
 
-        barang1.displayInfo();
+        b1.displayInfo();
     }
 }
