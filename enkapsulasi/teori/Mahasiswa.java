@@ -1,4 +1,4 @@
-package enkapsulasi.teori;
+package enkapsulasi.teori; 
 
 public class Mahasiswa {
     // Semua atribut private
